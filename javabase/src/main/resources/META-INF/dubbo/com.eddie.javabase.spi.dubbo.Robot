@@ -1,0 +1,2 @@
+optimusPrime = OptimusPrime
+bumblebee = Bumblebee
